@@ -1,0 +1,4 @@
+github.com/jarcoal/httpmock v1.4.0 h1:BvhqnH0JAYbNudL2GMJKgOHe2CtKlzJ/5rWKyp+hc2k=
+github.com/jarcoal/httpmock v1.4.0/go.mod h1:ftW1xULwo+j0R0JJkJIIi7UKigZUXCLLanykgjwBXL0=
+github.com/joeig/go-powerdns/v3 v3.16.0 h1:d6k0dVlBYr+B9P5U+74rVY1VmQxUG6Qdtlb3F33cBLQ=
+github.com/joeig/go-powerdns/v3 v3.16.0/go.mod h1:MXC0RHjIJbotTeH/hGoGfvyh7hOwfxYfU63BbWZXj1o=

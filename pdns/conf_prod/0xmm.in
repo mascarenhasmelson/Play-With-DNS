@@ -1,0 +1,8 @@
+$ORIGIN 0xmm.in.
+@	       3600	IN SOA	ns1.0xmm.in. mail@0xmm.in. 119088 3600 3600 7300 3600
+@          3600 IN A    103.146.225.74
+@          3600 IN NS ns1.0xmm.in.
+@          3600 IN NS ns2.0xmm.in.
+test       3600 IN A    1.2.3.4
+ns1        3600 IN A 103.146.225.74
+ns2        3600 IN A 103.146.225.74
